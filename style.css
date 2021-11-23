@@ -1,0 +1,21 @@
+.heading{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+}
+
+.note{
+    font-size: 15px;
+    color: aquamarine;
+}
+
+body{
+    background-size: cover;
+}
+
+canvas{
+    background-color: blueviolet;
+    border: 5px salmon;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px palevioletred;
+}
